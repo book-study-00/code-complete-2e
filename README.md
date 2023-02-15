@@ -16,11 +16,11 @@
     - 챕터는
         - 2부 5장부터 진행
         - 매주 1장씩 진행
-- 스터디 참여자
-    - https://github.com/yenowme
+- 스터디 참여자 (순서)
     - https://github.com/pistis
     - https://github.com/kooku0
     - https://github.com/dylanju
+    - https://github.com/yenowme
 
 ## 📜 진행 방식
 
